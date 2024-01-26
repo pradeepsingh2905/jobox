@@ -32,4 +32,4 @@ FOR BACKEND
    - [mohammad sadiq](https://www.linkedin.com/in/mohd-sadique-382321251?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 ## Feedback
 
-If you have any feedback, please reach out to us at Pradeepsinghsolanki36@GMAIL.COM
+If you have any feedback, please reach out to us at pradeepsinghsolanki36@GMAIL.COM
