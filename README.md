@@ -2,16 +2,16 @@
 
 A brief description of what this project does and who it's for
   
-  Jobox is a online two way website that will be showcase candidates/applicants real time open  source Contribution  and company/organisation profile  for easier to find or hiring a job. 
-Jobox will provide github,leetcode,codeforce, etc.
-all in one. a real time open source contribution means the current status of a candidates  github contributions, leetcode problem solved based on easy,medium and hard etc. 
+   Jobox is an online two-way website that will showcase candidates/applicants' real-time open source contributions and company/organization profiles for easier to find or hire a job. 
+Jobox will provide GitHub, Leetcode,codeforce, etc.
+all in one. a real-time open source contribution means the current status of a candidate's GitHub contributions, Leetcode problem solved based on easy, medium, and hard, etc. 
 
 ## Features
 
-- Real time open source contribution.
-- Access of multiple. contribution at one place.
+- Real-time open source contribution.
+- Access to multiple. contribution in one place.
 - Analysis of Individual growth
-- Cross platform
+- Cross-platform
 - Help to find where you stand.
 
 
